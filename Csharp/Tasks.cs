@@ -85,7 +85,7 @@ namespace ConsoleAppBootcamp
             else if (bmi < 30)
                 Console.WriteLine("Overweight");
             else
-                Console.WriteLine("Obese");
+                Console.WriteLine("Obese wight");
         }
 
 
